@@ -1,0 +1,13 @@
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp.dll
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp.deps.json
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp.runtimeconfig.json
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp.pdb
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/System.Data.SqlClient.dll
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-arm64/native/sni.dll
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-x64/native/sni.dll
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-x86/native/sni.dll
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/sharadvidyapathy/sharad/sharad_07/az_developer_playground/udemy_az-204/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
